@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Abby Mangel &#8211; San Antonio Review</title>
+	<atom:link href="/author/abbymangel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Fri, 26 Apr 2019 00:44:38 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Abby Mangel &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Sister Cities</title>
+		<link>/2018/poetry/abbymangel/302/</link>
+				<comments>/2018/poetry/abbymangel/302/#respond</comments>
+				<pubDate>Sat, 09 Jun 2018 23:37:36 +0000</pubDate>
+		<dc:creator><![CDATA[Abby Mangel]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=302</guid>
+				<description><![CDATA[Kumamoto and San Antonio]]></description>
+						<wfw:commentRss>/2018/poetry/abbymangel/302/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">302</post-id>	</item>
+		<item>
+		<title>Ode to the Ten Eleven</title>
+		<link>/2017/uncategorized/abbymangel/144/</link>
+				<comments>/2017/uncategorized/abbymangel/144/#respond</comments>
+				<pubDate>Tue, 10 Oct 2017 06:50:45 +0000</pubDate>
+		<dc:creator><![CDATA[Abby Mangel]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=144</guid>
+				<description><![CDATA[by Abby Mangel &#160; “Am I not who you thought I would be?” A severe case of monophobia led me to a violet shift of a punk establishment that sat precariously on the river. It was a sacral landmark, a busy locale known to be as self-destructive as the urban shadows packed inside of it. Timidly, [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/abbymangel/144/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 31/32 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:26:09 by W3 Total Cache
+-->

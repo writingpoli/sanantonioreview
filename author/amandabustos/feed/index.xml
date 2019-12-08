@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Amanda Bustos &#8211; San Antonio Review</title>
+	<atom:link href="/author/amandabustos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Thu, 25 Apr 2019 22:14:37 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Amanda Bustos &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>ardent</title>
+		<link>/2017/poetry/amandabustos/210/</link>
+				<comments>/2017/poetry/amandabustos/210/#respond</comments>
+				<pubDate>Tue, 28 Nov 2017 19:18:27 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda Bustos]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=210</guid>
+				<description><![CDATA[by Amanda Bustos ar • dent /ˈɑːdənt/ adj. 1. The feeling of blood racing rapidly through the veins. 2. The ache of the heart after cruel, raw rejection. 3. All that is evoked when the human soul is moved / The hidden tear behind a father who cannot feed the five little heads clinging to [&#8230;]]]></description>
+						<wfw:commentRss>/2017/poetry/amandabustos/210/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">210</post-id>	</item>
+		<item>
+		<title>Red, White, and Blue</title>
+		<link>/2017/uncategorized/amandabustos/222/</link>
+				<comments>/2017/uncategorized/amandabustos/222/#respond</comments>
+				<pubDate>Sat, 07 Oct 2017 21:19:23 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda Bustos]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=222</guid>
+				<description><![CDATA[by Amanda Bustos Please take a stand for your red, white, and blue. Take a stand for the land of the greatest, land of the honest, land of the cherished liberty. Freedom for all and above all. Freedom for my sisters and brothers. Freedom to write on this paper and freedom to stand outside the [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/amandabustos/222/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">222</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 30/31 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:26:12 by W3 Total Cache
+-->

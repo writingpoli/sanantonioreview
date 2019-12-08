@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; San Antonio Review</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Thu, 25 Apr 2019 22:16:18 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Uncategorized &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Free Pools for Baltimore Youth? Why Not?</title>
+		<link>/2017/uncategorized/ryanboddy/242/</link>
+				<comments>/2017/uncategorized/ryanboddy/242/#respond</comments>
+				<pubDate>Fri, 01 Dec 2017 20:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=242</guid>
+				<description><![CDATA[by Ryan Boddy I want to state up front that the basis for this idea is NOT originally mine, so I’ll explain where it came from below. Like a lot of my stories, it’s a bit long. In my teenage years and early adulthood, I lived in Glendale, Arizona. I made my summer money as a lifeguard [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/ryanboddy/242/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">242</post-id>	</item>
+		<item>
+		<title>On Process: Coffee, Vinyl, and Work</title>
+		<link>/2017/uncategorized/ryanboddy/188/</link>
+				<comments>/2017/uncategorized/ryanboddy/188/#respond</comments>
+				<pubDate>Wed, 11 Oct 2017 21:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=188</guid>
+				<description><![CDATA[by Ryan Boddy Most of us agree conceptually that process is of key importance to whatever we do. It’s a common talking point at management seminars, in motivational scrums away from the cubicles, and it’s a fairly typical subject of life-hack blog posts. Yet in our daily lives we don’t often apply principles of process [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/ryanboddy/188/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+		<item>
+		<title>Ode to the Ten Eleven</title>
+		<link>/2017/uncategorized/abbymangel/144/</link>
+				<comments>/2017/uncategorized/abbymangel/144/#respond</comments>
+				<pubDate>Tue, 10 Oct 2017 06:50:45 +0000</pubDate>
+		<dc:creator><![CDATA[Abby Mangel]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=144</guid>
+				<description><![CDATA[by Abby Mangel &#160; “Am I not who you thought I would be?” A severe case of monophobia led me to a violet shift of a punk establishment that sat precariously on the river. It was a sacral landmark, a busy locale known to be as self-destructive as the urban shadows packed inside of it. Timidly, [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/abbymangel/144/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+		<item>
+		<title>Red, White, and Blue</title>
+		<link>/2017/uncategorized/amandabustos/222/</link>
+				<comments>/2017/uncategorized/amandabustos/222/#respond</comments>
+				<pubDate>Sat, 07 Oct 2017 21:19:23 +0000</pubDate>
+		<dc:creator><![CDATA[Amanda Bustos]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=222</guid>
+				<description><![CDATA[by Amanda Bustos Please take a stand for your red, white, and blue. Take a stand for the land of the greatest, land of the honest, land of the cherished liberty. Freedom for all and above all. Freedom for my sisters and brothers. Freedom to write on this paper and freedom to stand outside the [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/amandabustos/222/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">222</post-id>	</item>
+		<item>
+		<title>Cannabis Can Save the South</title>
+		<link>/2017/uncategorized/sareview_ei8iz3/126/</link>
+				<comments>/2017/uncategorized/sareview_ei8iz3/126/#respond</comments>
+				<pubDate>Wed, 04 Oct 2017 10:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=126</guid>
+				<description><![CDATA[by William O. Pate II The South is suffering. The South has long been suffering. Largely rural, states like Alabama and Mississippi have lost out on the rise of the information technology sector. High tech companies don’t tend to flock to even the largest cities — Birmingham, Mobile and the state capital of Montgomery — in the state of [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/sareview_ei8iz3/126/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">126</post-id>	</item>
+		<item>
+		<title>What love is — and what it could be</title>
+		<link>/2017/uncategorized/sareview_ei8iz3/106/</link>
+				<comments>/2017/uncategorized/sareview_ei8iz3/106/#respond</comments>
+				<pubDate>Mon, 02 Oct 2017 14:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=106</guid>
+				<description><![CDATA[by Kris Gage “Everyone is biased.” — Carrie Jenkins We all frame the question of “What is love?” by our own most pressing concerns. For some of us, this question is a matter of whether or not love is “real.” For others, whether or not they’ll find it, or whether or not there’s only “the one.” My own [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/sareview_ei8iz3/106/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">106</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 56/64 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:25:03 by W3 Total Cache
+-->

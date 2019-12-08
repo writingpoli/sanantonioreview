@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Joshua Lindenbaum &#8211; San Antonio Review</title>
+	<atom:link href="/author/joshualindenbaum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Mon, 16 Sep 2019 15:02:50 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Joshua Lindenbaum &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>OCD</title>
+		<link>/2019/issue-2/joshualindenbaum/826/</link>
+				<pubDate>Wed, 14 Aug 2019 12:49:00 +0000</pubDate>
+		<dc:creator><![CDATA[Joshua Lindenbaum]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Prose Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=826</guid>
+				<description><![CDATA["The act of describing a quirk or ritual"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">826</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 24/25 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:28:03 by W3 Total Cache
+-->

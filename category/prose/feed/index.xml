@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Prose &#8211; San Antonio Review</title>
+	<atom:link href="/category/prose/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Wed, 04 Dec 2019 15:30:12 -0600</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Prose &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Solidarity</title>
+		<link>/2019/essays/kimberlytolson/1215/</link>
+				<pubDate>Wed, 04 Dec 2019 13:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Kimberly Tolson]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1215</guid>
+				<description><![CDATA["It's personal."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+		<item>
+		<title>Warring Warbles Within — A Review of WARBLES by Alex Z. Salinas</title>
+		<link>/2019/prose/williampate/1191/</link>
+				<pubDate>Mon, 18 Nov 2019 23:13:40 +0000</pubDate>
+		<dc:creator><![CDATA[William O. Pate II]]></dc:creator>
+				<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1191</guid>
+				<description><![CDATA[Thoughts on Alex Z. Salinas' debut book of poems.]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1191</post-id>	</item>
+		<item>
+		<title>My Knees, Anthony Bourdain and Depression</title>
+		<link>/2019/essays/richfurman/1131/</link>
+				<pubDate>Sun, 17 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Rich Furman]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1131</guid>
+				<description><![CDATA["The anger of Bourdain – tears of a clown."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1131</post-id>	</item>
+		<item>
+		<title>Men Without Hearts, Inc.</title>
+		<link>/2019/issue-2/alexsalinas/1044/</link>
+				<comments>/2019/issue-2/alexsalinas/1044/#comments</comments>
+				<pubDate>Wed, 30 Oct 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1044</guid>
+				<description><![CDATA["I had to wander Earth without a core."]]></description>
+						<wfw:commentRss>/2019/issue-2/alexsalinas/1044/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1044</post-id>	</item>
+		<item>
+		<title>Can Mittelpolitan Cities Ever be Strong?</title>
+		<link>/2019/essays/russellarbenfox/1147/</link>
+				<pubDate>Mon, 28 Oct 2019 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Arben Fox]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Online-Only]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+				<description><![CDATA[The second in a two-part series of looks at Charles Marohn's "Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1147</post-id>	</item>
+		<item>
+		<title>A Worker&#8217;s Worth: A Review</title>
+		<link>/2019/prose/williampate/1116/</link>
+				<pubDate>Wed, 23 Oct 2019 01:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[William O. Pate II]]></dc:creator>
+				<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1116</guid>
+				<description><![CDATA[How employers and managers can develop more productive and loyal workers by communicating value.]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1116</post-id>	</item>
+		<item>
+		<title>The Localist Theory of Charles Marohn’s Wonderfully Practical Strong Towns</title>
+		<link>/2019/online-only/russellarbenfox/1081/</link>
+				<comments>/2019/online-only/russellarbenfox/1081/#comments</comments>
+				<pubDate>Mon, 14 Oct 2019 20:45:01 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Arben Fox]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Online-Only]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1081</guid>
+				<description><![CDATA[The first of two looks at Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity.]]></description>
+						<wfw:commentRss>/2019/online-only/russellarbenfox/1081/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1081</post-id>	</item>
+		<item>
+		<title>Deprivation</title>
+		<link>/2019/prose/charlispier/1017/</link>
+				<pubDate>Sun, 13 Oct 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Charli Spier]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1017</guid>
+				<description><![CDATA[“You may, at some point, feel rather uncomfortable.”]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1017</post-id>	</item>
+		<item>
+		<title>Getting it Down</title>
+		<link>/2019/essays/annaschott/987/</link>
+				<pubDate>Sun, 06 Oct 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anna Schott]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=987</guid>
+				<description><![CDATA["An essay in two parts."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">987</post-id>	</item>
+		<item>
+		<title>Remember Goliad</title>
+		<link>/2019/prose/lukevillafranca/922/</link>
+				<pubDate>Sun, 15 Sep 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Luke Neftali Villafranca]]></dc:creator>
+				<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=922</guid>
+				<description><![CDATA["People say it’s getting more dangerous each day, everywhere, especially along the Rio Grande of the Texican Border."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">922</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 92/93 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:22:32 by W3 Total Cache
+-->

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>SA Review &#8211; San Antonio Review</title>
+	<atom:link href="/author/sareview_ei8iz3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Fri, 26 Apr 2019 02:23:07 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>SA Review &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>My Father</title>
+		<link>/2018/poetry/sareview_ei8iz3/333/</link>
+				<comments>/2018/poetry/sareview_ei8iz3/333/#respond</comments>
+				<pubDate>Sun, 21 Oct 2018 00:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=333</guid>
+				<description><![CDATA["My past burdens stop me."]]></description>
+						<wfw:commentRss>/2018/poetry/sareview_ei8iz3/333/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">333</post-id>	</item>
+		<item>
+		<title>Our First Issue Released</title>
+		<link>/2017/editorial/sareview_ei8iz3/250/</link>
+				<comments>/2017/editorial/sareview_ei8iz3/250/#respond</comments>
+				<pubDate>Mon, 04 Dec 2017 19:49:20 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">/?p=250</guid>
+				<description><![CDATA[Our inaugural print edition has been released. It&#8217;s a collection of work that has been published on this site &#8212; and a few extras. The print edition is available on Amazon here and the Kindle version is here. A sincere thank you to all the contributors to our first issue. Thank you for reading!]]></description>
+						<wfw:commentRss>/2017/editorial/sareview_ei8iz3/250/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">250</post-id>	</item>
+		<item>
+		<title>San Antonio Will Never Be Austin</title>
+		<link>/2017/editorial/sareview_ei8iz3/102/</link>
+				<comments>/2017/editorial/sareview_ei8iz3/102/#respond</comments>
+				<pubDate>Sat, 07 Oct 2017 14:30:48 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">/?p=102</guid>
+				<description><![CDATA[by William O. Pate II San Antonio will never be Austin. San Antonio will never be a “creative class” city because it doesn’t have a 24-hour coffee shop. San Antonio, much like New Orleans, has a bit of an inferiority complex when it comes to viewing our neighbors to the north in Austin. While I [&#8230;]]]></description>
+						<wfw:commentRss>/2017/editorial/sareview_ei8iz3/102/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">102</post-id>	</item>
+		<item>
+		<title>She told me that she too had a garden</title>
+		<link>/2017/poetry/sareview_ei8iz3/123/</link>
+				<comments>/2017/poetry/sareview_ei8iz3/123/#respond</comments>
+				<pubDate>Thu, 05 Oct 2017 07:06:54 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=123</guid>
+				<description><![CDATA[by E. Scott Alighieri She told me that she too had a garden Here in the the city and asked if I would like to see it? “Yes where is it?” I asked confused “In Defiance” She answered, Taking my hand, as I followed, She pointed out a little tuft of grass in the crack of asphalt parking lot, [&#8230;]]]></description>
+						<wfw:commentRss>/2017/poetry/sareview_ei8iz3/123/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">123</post-id>	</item>
+		<item>
+		<title>Groin Pains: How I Learned to Stop Worrying and Love my Vasectomy</title>
+		<link>/2017/issue-1/sareview_ei8iz3/120/</link>
+				<comments>/2017/issue-1/sareview_ei8iz3/120/#respond</comments>
+				<pubDate>Wed, 04 Oct 2017 21:22:29 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+
+		<guid isPermaLink="false">/?p=120</guid>
+				<description><![CDATA[by M. Galaxy Parker As I approach 40, I realize that I have only two significant things to recommend me as a human being. One is an unusually high credit score. The other is being astoundingly fertile. The high credit score came by way of a confluence of inexplicable events. Or at least I think [&#8230;]]]></description>
+						<wfw:commentRss>/2017/issue-1/sareview_ei8iz3/120/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+		<item>
+		<title>Cannabis Can Save the South</title>
+		<link>/2017/uncategorized/sareview_ei8iz3/126/</link>
+				<comments>/2017/uncategorized/sareview_ei8iz3/126/#respond</comments>
+				<pubDate>Wed, 04 Oct 2017 10:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=126</guid>
+				<description><![CDATA[by William O. Pate II The South is suffering. The South has long been suffering. Largely rural, states like Alabama and Mississippi have lost out on the rise of the information technology sector. High tech companies don’t tend to flock to even the largest cities — Birmingham, Mobile and the state capital of Montgomery — in the state of [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/sareview_ei8iz3/126/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">126</post-id>	</item>
+		<item>
+		<title>What love is — and what it could be</title>
+		<link>/2017/uncategorized/sareview_ei8iz3/106/</link>
+				<comments>/2017/uncategorized/sareview_ei8iz3/106/#respond</comments>
+				<pubDate>Mon, 02 Oct 2017 14:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=106</guid>
+				<description><![CDATA[by Kris Gage “Everyone is biased.” — Carrie Jenkins We all frame the question of “What is love?” by our own most pressing concerns. For some of us, this question is a matter of whether or not love is “real.” For others, whether or not they’ll find it, or whether or not there’s only “the one.” My own [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/sareview_ei8iz3/106/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">106</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 56/66 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:26:16 by W3 Total Cache
+-->

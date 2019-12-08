@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ryan Boddy &#8211; San Antonio Review</title>
+	<atom:link href="/author/ryanboddy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Fri, 26 Apr 2019 03:12:14 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Ryan Boddy &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Belief and Evolution</title>
+		<link>/2018/essays/ryanboddy/326/</link>
+				<comments>/2018/essays/ryanboddy/326/#respond</comments>
+				<pubDate>Fri, 28 Sep 2018 18:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Online-Only]]></category>
+
+		<guid isPermaLink="false">/?p=326</guid>
+				<description><![CDATA[Brett Kavanaugh hasn't learned.]]></description>
+						<wfw:commentRss>/2018/essays/ryanboddy/326/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">326</post-id>	</item>
+		<item>
+		<title>Free Pools for Baltimore Youth? Why Not?</title>
+		<link>/2017/uncategorized/ryanboddy/242/</link>
+				<comments>/2017/uncategorized/ryanboddy/242/#respond</comments>
+				<pubDate>Fri, 01 Dec 2017 20:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=242</guid>
+				<description><![CDATA[by Ryan Boddy I want to state up front that the basis for this idea is NOT originally mine, so I’ll explain where it came from below. Like a lot of my stories, it’s a bit long. In my teenage years and early adulthood, I lived in Glendale, Arizona. I made my summer money as a lifeguard [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/ryanboddy/242/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">242</post-id>	</item>
+		<item>
+		<title>On Process: Coffee, Vinyl, and Work</title>
+		<link>/2017/uncategorized/ryanboddy/188/</link>
+				<comments>/2017/uncategorized/ryanboddy/188/#respond</comments>
+				<pubDate>Wed, 11 Oct 2017 21:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=188</guid>
+				<description><![CDATA[by Ryan Boddy Most of us agree conceptually that process is of key importance to whatever we do. It’s a common talking point at management seminars, in motivational scrums away from the cubicles, and it’s a fairly typical subject of life-hack blog posts. Yet in our daily lives we don’t often apply principles of process [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/ryanboddy/188/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 32/43 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:24:50 by W3 Total Cache
+-->

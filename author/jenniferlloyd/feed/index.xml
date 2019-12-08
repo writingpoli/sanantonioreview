@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Jennifer R. Lloyd &#8211; San Antonio Review</title>
+	<atom:link href="/author/jenniferlloyd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Wed, 21 Aug 2019 15:25:45 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Jennifer R. Lloyd &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>West Side Wonders</title>
+		<link>/2019/poetry/jenniferlloyd/842/</link>
+				<pubDate>Wed, 21 Aug 2019 12:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer R. Lloyd]]></dc:creator>
+				<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=842</guid>
+				<description><![CDATA["the world over."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">842</post-id>	</item>
+		<item>
+		<title>Binding</title>
+		<link>/2018/poetry/jenniferlloyd/314/</link>
+				<comments>/2018/poetry/jenniferlloyd/314/#respond</comments>
+				<pubDate>Wed, 08 Aug 2018 03:01:19 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer R. Lloyd]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=314</guid>
+				<description><![CDATA["A gift signed for you."]]></description>
+						<wfw:commentRss>/2018/poetry/jenniferlloyd/314/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">314</post-id>	</item>
+		<item>
+		<title>Listen, girl</title>
+		<link>/2018/poetry/jenniferlloyd/289/</link>
+				<comments>/2018/poetry/jenniferlloyd/289/#respond</comments>
+				<pubDate>Thu, 19 Apr 2018 20:30:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer R. Lloyd]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=289</guid>
+				<description><![CDATA[by Jennifer R. Lloyd Listen, girl, Let’s rock a minute. I gotta tell you somethin’ important. Say someday you’re sittin’ on this swing, Yes, this same one, Long time from now, With a grownup man, And the lighting bugs are goin’, Making that summer magic in the jasmine air. See, there they go. And you [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/jenniferlloyd/289/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">289</post-id>	</item>
+		<item>
+		<title>Bending Time</title>
+		<link>/2017/poetry/jenniferlloyd/234/</link>
+				<comments>/2017/poetry/jenniferlloyd/234/#respond</comments>
+				<pubDate>Wed, 29 Nov 2017 06:39:50 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer R. Lloyd]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=234</guid>
+				<description><![CDATA[by Jennifer R. Lloyd &#160; Where’d you learn to bend time like that? You found the portal on instinct. Our two mouths like black holes connecting, Lips and teeth and tongue marking The fissure where solid time turns liquid, Where night stretches In communion with parked cars, Where street dogs gather their feast, Where we [&#8230;]]]></description>
+						<wfw:commentRss>/2017/poetry/jenniferlloyd/234/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">234</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 37/42 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:27:28 by W3 Total Cache
+-->

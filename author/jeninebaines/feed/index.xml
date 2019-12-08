@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Jenine Baines &#8211; San Antonio Review</title>
+	<atom:link href="/author/jeninebaines/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Thu, 25 Apr 2019 22:10:10 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Jenine Baines &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>A Love Poem to Money</title>
+		<link>/2018/poetry/jeninebaines/283/</link>
+				<comments>/2018/poetry/jeninebaines/283/#respond</comments>
+				<pubDate>Mon, 26 Mar 2018 21:57:06 +0000</pubDate>
+		<dc:creator><![CDATA[Jenine Baines]]></dc:creator>
+				<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=283</guid>
+				<description><![CDATA[by Jenine Baines Yes, roses are red, violets are blue…but I’d rather cultivate pennies and watch big bucks accrue. “Anyone who lives within their means suffers from a lack of imagination,” said Oscar Wilde. And while, yes, I have been a fan of Wilde since I played Lady Bracknell in a drama camp production of [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/jeninebaines/283/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">283</post-id>	</item>
+		<item>
+		<title>Ode to the DMV</title>
+		<link>/2018/poetry/jeninebaines/268/</link>
+				<comments>/2018/poetry/jeninebaines/268/#respond</comments>
+				<pubDate>Thu, 08 Mar 2018 18:51:16 +0000</pubDate>
+		<dc:creator><![CDATA[Jenine Baines]]></dc:creator>
+				<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=268</guid>
+				<description><![CDATA[by Jenine Baines Fuck. Pardon my French. But fuck, fuck, fuck, fuck, fuck. FUCK. Oh, it could have been worse: I could have neglected to make an appointment in advance and wound up in a line snaking outside the door, around the building; I could have flunked the written test more than once. Grâce à [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/jeninebaines/268/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">268</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 28/29 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:30:12 by W3 Total Cache
+-->

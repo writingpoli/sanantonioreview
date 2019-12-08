@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Essays &#8211; San Antonio Review</title>
+	<atom:link href="/category/essays/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Wed, 04 Dec 2019 15:30:12 -0600</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Essays &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Solidarity</title>
+		<link>/2019/essays/kimberlytolson/1215/</link>
+				<pubDate>Wed, 04 Dec 2019 13:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Kimberly Tolson]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1215</guid>
+				<description><![CDATA["It's personal."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+		<item>
+		<title>My Knees, Anthony Bourdain and Depression</title>
+		<link>/2019/essays/richfurman/1131/</link>
+				<pubDate>Sun, 17 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Rich Furman]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1131</guid>
+				<description><![CDATA["The anger of Bourdain – tears of a clown."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1131</post-id>	</item>
+		<item>
+		<title>Can Mittelpolitan Cities Ever be Strong?</title>
+		<link>/2019/essays/russellarbenfox/1147/</link>
+				<pubDate>Mon, 28 Oct 2019 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Arben Fox]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Online-Only]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+				<description><![CDATA[The second in a two-part series of looks at Charles Marohn's "Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1147</post-id>	</item>
+		<item>
+		<title>Getting it Down</title>
+		<link>/2019/essays/annaschott/987/</link>
+				<pubDate>Sun, 06 Oct 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Anna Schott]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=987</guid>
+				<description><![CDATA["An essay in two parts."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">987</post-id>	</item>
+		<item>
+		<title>Virginity</title>
+		<link>/2019/issue-2/jerigriffith/877/</link>
+				<pubDate>Wed, 28 Aug 2019 12:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[Jeri Griffith]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=877</guid>
+				<description><![CDATA[“Are you a virgin?”]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">877</post-id>	</item>
+		<item>
+		<title>Belief and Evolution</title>
+		<link>/2018/essays/ryanboddy/326/</link>
+				<comments>/2018/essays/ryanboddy/326/#respond</comments>
+				<pubDate>Fri, 28 Sep 2018 18:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Online-Only]]></category>
+
+		<guid isPermaLink="false">/?p=326</guid>
+				<description><![CDATA[Brett Kavanaugh hasn't learned.]]></description>
+						<wfw:commentRss>/2018/essays/ryanboddy/326/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">326</post-id>	</item>
+		<item>
+		<title>A School Board Meeting Challenges Faith</title>
+		<link>/2017/issue-2/bekahmcneel/245/</link>
+				<comments>/2017/issue-2/bekahmcneel/245/#respond</comments>
+				<pubDate>Mon, 04 Dec 2017 15:40:08 +0000</pubDate>
+		<dc:creator><![CDATA[Bekah S. McNeel]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 2]]></category>
+
+		<guid isPermaLink="false">/?p=245</guid>
+				<description><![CDATA[by Bekah S. McNeel Recently I covered what has been by far the most difficult events of my young journalism career: a school board meeting. I’m an education reporter, and school board meetings feature regularly my calendar. Usually the primary challenge is staying awake. On that Monday night, the primary challenge was keeping my faith. [&#8230;]]]></description>
+						<wfw:commentRss>/2017/issue-2/bekahmcneel/245/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">245</post-id>	</item>
+		<item>
+		<title>Free Pools for Baltimore Youth? Why Not?</title>
+		<link>/2017/uncategorized/ryanboddy/242/</link>
+				<comments>/2017/uncategorized/ryanboddy/242/#respond</comments>
+				<pubDate>Fri, 01 Dec 2017 20:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=242</guid>
+				<description><![CDATA[by Ryan Boddy I want to state up front that the basis for this idea is NOT originally mine, so I’ll explain where it came from below. Like a lot of my stories, it’s a bit long. In my teenage years and early adulthood, I lived in Glendale, Arizona. I made my summer money as a lifeguard [&#8230;]]]></description>
+						<wfw:commentRss>/2017/uncategorized/ryanboddy/242/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">242</post-id>	</item>
+		<item>
+		<title>A 12-Step Program to Rescue Public Education</title>
+		<link>/2017/issue-1/bekahmcneel/77/</link>
+				<comments>/2017/issue-1/bekahmcneel/77/#respond</comments>
+				<pubDate>Wed, 15 Nov 2017 14:21:53 +0000</pubDate>
+		<dc:creator><![CDATA[Bekah S. McNeel]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+
+		<guid isPermaLink="false">/?p=77</guid>
+				<description><![CDATA[by Bekah S. McNeel While death and taxes may have earned their spot at the top, there may be room for an addition to the dubious list of “things that are certain.” Every campaign season, candidates from both sides of the aisle in red states and blue states agree on one thing: the American education system [&#8230;]]]></description>
+						<wfw:commentRss>/2017/issue-1/bekahmcneel/77/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">77</post-id>	</item>
+		<item>
+		<title>On the Moral Responsibility of Repaying Student Loan Debt</title>
+		<link>/2017/issue-1/williampate/1068/</link>
+				<pubDate>Fri, 13 Oct 2017 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[William O. Pate II]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1068</guid>
+				<description><![CDATA[Or, How Student Loan Debt Drove My Family into Bankruptcy]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1068</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 83/107 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:22:14 by W3 Total Cache
+-->

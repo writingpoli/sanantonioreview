@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Online-Only &#8211; San Antonio Review</title>
+	<atom:link href="/category/online-only/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Tue, 29 Oct 2019 14:01:07 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Online-Only &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Can Mittelpolitan Cities Ever be Strong?</title>
+		<link>/2019/essays/russellarbenfox/1147/</link>
+				<pubDate>Mon, 28 Oct 2019 23:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Arben Fox]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Online-Only]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+				<description><![CDATA[The second in a two-part series of looks at Charles Marohn's "Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1147</post-id>	</item>
+		<item>
+		<title>The Localist Theory of Charles Marohn’s Wonderfully Practical Strong Towns</title>
+		<link>/2019/online-only/russellarbenfox/1081/</link>
+				<comments>/2019/online-only/russellarbenfox/1081/#comments</comments>
+				<pubDate>Mon, 14 Oct 2019 20:45:01 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Arben Fox]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Online-Only]]></category>
+		<category><![CDATA[Prose]]></category>
+		<category><![CDATA[Reviews]]></category>
+
+		<guid isPermaLink="false">/?p=1081</guid>
+				<description><![CDATA[The first of two looks at Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity.]]></description>
+						<wfw:commentRss>/2019/online-only/russellarbenfox/1081/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1081</post-id>	</item>
+		<item>
+		<title>Belief and Evolution</title>
+		<link>/2018/essays/ryanboddy/326/</link>
+				<comments>/2018/essays/ryanboddy/326/#respond</comments>
+				<pubDate>Fri, 28 Sep 2018 18:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[Ryan Boddy]]></dc:creator>
+				<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Online-Only]]></category>
+
+		<guid isPermaLink="false">/?p=326</guid>
+				<description><![CDATA[Brett Kavanaugh hasn't learned.]]></description>
+						<wfw:commentRss>/2018/essays/ryanboddy/326/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">326</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 22/67 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:24:08 by W3 Total Cache
+-->

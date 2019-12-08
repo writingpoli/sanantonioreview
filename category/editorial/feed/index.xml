@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Editorial &#8211; San Antonio Review</title>
+	<atom:link href="/category/editorial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Mon, 16 Sep 2019 20:19:31 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Editorial &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>San Antonio Review, Issue Two &#124; Winter 2019</title>
+		<link>/2019/editorial/williampate/961/</link>
+				<comments>/2019/editorial/williampate/961/#respond</comments>
+				<pubDate>Mon, 16 Sep 2019 17:49:19 +0000</pubDate>
+		<dc:creator><![CDATA[William O. Pate II]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">/?p=961</guid>
+				<description><![CDATA[On behalf of the all-volunteer staff of the San Antonio Review, I&#8217;m proud to announce the release of our second issue. It will be available for order through your local booksellers and libraries in the coming days. Currently, it is available for immediate download on Amazon Kindle. (Remember to always use smile.amazon.com so a portion [&#8230;]]]></description>
+						<wfw:commentRss>/2019/editorial/williampate/961/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+		<item>
+		<title>Our First Issue Released</title>
+		<link>/2017/editorial/sareview_ei8iz3/250/</link>
+				<comments>/2017/editorial/sareview_ei8iz3/250/#respond</comments>
+				<pubDate>Mon, 04 Dec 2017 19:49:20 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">/?p=250</guid>
+				<description><![CDATA[Our inaugural print edition has been released. It&#8217;s a collection of work that has been published on this site &#8212; and a few extras. The print edition is available on Amazon here and the Kindle version is here. A sincere thank you to all the contributors to our first issue. Thank you for reading!]]></description>
+						<wfw:commentRss>/2017/editorial/sareview_ei8iz3/250/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">250</post-id>	</item>
+		<item>
+		<title>San Antonio Will Never Be Austin</title>
+		<link>/2017/editorial/sareview_ei8iz3/102/</link>
+				<comments>/2017/editorial/sareview_ei8iz3/102/#respond</comments>
+				<pubDate>Sat, 07 Oct 2017 14:30:48 +0000</pubDate>
+		<dc:creator><![CDATA[SA Review]]></dc:creator>
+				<category><![CDATA[Editorial]]></category>
+
+		<guid isPermaLink="false">/?p=102</guid>
+				<description><![CDATA[by William O. Pate II San Antonio will never be Austin. San Antonio will never be a “creative class” city because it doesn’t have a 24-hour coffee shop. San Antonio, much like New Orleans, has a bit of an inferiority complex when it comes to viewing our neighbors to the north in Austin. While I [&#8230;]]]></description>
+						<wfw:commentRss>/2017/editorial/sareview_ei8iz3/102/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">102</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 23/52 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:25:47 by W3 Total Cache
+-->

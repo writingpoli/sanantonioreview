@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Art &#8211; San Antonio Review</title>
+	<atom:link href="/category/art/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Sun, 08 Dec 2019 15:52:18 -0600</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Art &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>The tree line distant and still</title>
+		<link>/2019/poetry/nicolasvisconti/1230/</link>
+				<pubDate>Sun, 08 Dec 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicolas Visconti]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1230</guid>
+				<description><![CDATA["To leave I had to let
+go"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1230</post-id>	</item>
+		<item>
+		<title>Solidarity</title>
+		<link>/2019/essays/kimberlytolson/1215/</link>
+				<pubDate>Wed, 04 Dec 2019 13:00:28 +0000</pubDate>
+		<dc:creator><![CDATA[Kimberly Tolson]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1215</guid>
+				<description><![CDATA["It's personal."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>	</item>
+		<item>
+		<title>Bear Trap</title>
+		<link>/2019/poetry/brianrihlmann/1142/</link>
+				<pubDate>Sun, 01 Dec 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Rihlmann]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1142</guid>
+				<description><![CDATA["these jaws have grabbed
+many things
+more dangerous 
+than an ursine beast"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1142</post-id>	</item>
+		<item>
+		<title>Box</title>
+		<link>/2019/poetry/stephenrogerpowers/1136/</link>
+				<pubDate>Wed, 27 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Roger Powers]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1136</guid>
+				<description><![CDATA["Lately it is hard for me to suspend disbelief."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1136</post-id>	</item>
+		<item>
+		<title>Grandma&#8217;s Journal</title>
+		<link>/2019/poetry/brianrihlmann/1139/</link>
+				<pubDate>Sun, 24 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Brian Rihlmann]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1139</guid>
+				<description><![CDATA["she skipped a few years
+then another entry"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>	</item>
+		<item>
+		<title>A Long Way from Underground</title>
+		<link>/2019/poetry/stephenrogerpowers/1134/</link>
+				<pubDate>Wed, 20 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Stephen Roger Powers]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1134</guid>
+				<description><![CDATA["Bones crave the air and light"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1134</post-id>	</item>
+		<item>
+		<title>My Knees, Anthony Bourdain and Depression</title>
+		<link>/2019/essays/richfurman/1131/</link>
+				<pubDate>Sun, 17 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Rich Furman]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Essays]]></category>
+		<category><![CDATA[Nonfiction]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1131</guid>
+				<description><![CDATA["The anger of Bourdain – tears of a clown."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1131</post-id>	</item>
+		<item>
+		<title>Boy with blanket</title>
+		<link>/2019/poetry/nicolasvisconti/1128/</link>
+				<pubDate>Wed, 13 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Nicolas Visconti]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1128</guid>
+				<description><![CDATA["First and foremost, it is a shield"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1128</post-id>	</item>
+		<item>
+		<title>art is not what you see but what you make others see</title>
+		<link>/2019/poetry/davidmatthews/1125/</link>
+				<pubDate>Sun, 10 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[David Matthews]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1125</guid>
+				<description><![CDATA["FORGIVE me"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1125</post-id>	</item>
+		<item>
+		<title>Passing Time</title>
+		<link>/2019/poetry/margaretcantu-sanchez/1123/</link>
+				<pubDate>Wed, 06 Nov 2019 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Margaret Cantu-Sanchez]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=1123</guid>
+				<description><![CDATA["Over the hill at last,"]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">1123</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 87/88 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:21:33 by W3 Total Cache
+-->

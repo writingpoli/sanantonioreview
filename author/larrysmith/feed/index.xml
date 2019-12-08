@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Larry Smith &#8211; San Antonio Review</title>
+	<atom:link href="/author/larrysmith/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Sun, 02 Jun 2019 16:30:27 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Larry Smith &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Women&#8217;s Hair</title>
+		<link>/2019/poetry/larrysmith/564/</link>
+				<comments>/2019/poetry/larrysmith/564/#respond</comments>
+				<pubDate>Sun, 02 Jun 2019 12:18:54 +0000</pubDate>
+		<dc:creator><![CDATA[Larry Smith]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=564</guid>
+				<description><![CDATA["touch the soul, kiss the sky"
+
+by Larry Smith]]></description>
+						<wfw:commentRss>/2019/poetry/larrysmith/564/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">564</post-id>	</item>
+		<item>
+		<title>Elvis Resurrection</title>
+		<link>/2019/poetry/larrysmith/523/</link>
+				<pubDate>Wed, 08 May 2019 12:20:24 +0000</pubDate>
+		<dc:creator><![CDATA[Larry Smith]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+		<category><![CDATA[Prose Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=523</guid>
+				<description><![CDATA["Naked in wax, nothing really moves or matters."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">523</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 30/31 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:30:33 by W3 Total Cache
+-->

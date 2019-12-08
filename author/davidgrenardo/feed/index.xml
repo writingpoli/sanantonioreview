@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>David A. Grenardo &#8211; San Antonio Review</title>
+	<atom:link href="/author/davidgrenardo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Thu, 25 Apr 2019 22:10:24 -0500</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>David A. Grenardo &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>A Teacher&#8217;s Hope: Being Remembered</title>
+		<link>/2018/poetry/davidgrenardo/254/</link>
+				<comments>/2018/poetry/davidgrenardo/254/#respond</comments>
+				<pubDate>Tue, 02 Jan 2018 01:07:24 +0000</pubDate>
+		<dc:creator><![CDATA[David A. Grenardo]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=254</guid>
+				<description><![CDATA[by David A. Grenardo How do you want to be remembered by your students? And, more importantly, when? For your awards or accolades and only at the end? In some big ceremony, retirement, or a funeral attended by many, Which of those ways do I want to be remembered by my students? Not any. I [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/davidgrenardo/254/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">254</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 24/25 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:30:18 by W3 Total Cache
+-->

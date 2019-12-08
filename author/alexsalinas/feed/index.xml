@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Alex Z. Salinas &#8211; San Antonio Review</title>
+	<atom:link href="/author/alexsalinas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Reviews, essays, poetry and more</description>
+	<lastBuildDate>Sun, 10 Nov 2019 19:52:11 -0600</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3</generator>
+
+<image>
+	<url>https://i0.wp.com/sa-review.com/wp-content/uploads/2019/06/SA-Review-FB-Profile-PhotoArtboard-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Alex Z. Salinas &#8211; San Antonio Review</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136405272</site>	<item>
+		<title>Men Without Hearts, Inc.</title>
+		<link>/2019/issue-2/alexsalinas/1044/</link>
+				<comments>/2019/issue-2/alexsalinas/1044/#comments</comments>
+				<pubDate>Wed, 30 Oct 2019 12:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Art]]></category>
+		<category><![CDATA[Fiction]]></category>
+		<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Prose]]></category>
+
+		<guid isPermaLink="false">/?p=1044</guid>
+				<description><![CDATA["I had to wander Earth without a core."]]></description>
+						<wfw:commentRss>/2019/issue-2/alexsalinas/1044/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">1044</post-id>	</item>
+		<item>
+		<title>Morning drive, March 2019</title>
+		<link>/2019/poetry/alexsalinas/515/</link>
+				<pubDate>Sat, 11 May 2019 12:28:24 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=515</guid>
+				<description><![CDATA["Interstate 410 before eight a.m."]]></description>
+								<post-id xmlns="com-wordpress:feed-additions:1">515</post-id>	</item>
+		<item>
+		<title>The Great Thing About Being Sometimes Hispanic</title>
+		<link>/2019/poetry/alexsalinas/367/</link>
+				<comments>/2019/poetry/alexsalinas/367/#respond</comments>
+				<pubDate>Thu, 17 Jan 2019 01:29:02 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=367</guid>
+				<description><![CDATA[From our poetry editor.]]></description>
+						<wfw:commentRss>/2019/poetry/alexsalinas/367/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">367</post-id>	</item>
+		<item>
+		<title>Mixed feelings</title>
+		<link>/2018/poetry/alexsalinas/345/</link>
+				<comments>/2018/poetry/alexsalinas/345/#respond</comments>
+				<pubDate>Mon, 05 Nov 2018 00:47:58 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=345</guid>
+				<description><![CDATA[Mixed materials and mixed emotions.]]></description>
+						<wfw:commentRss>/2018/poetry/alexsalinas/345/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">345</post-id>	</item>
+		<item>
+		<title>Sir Bob</title>
+		<link>/2018/poetry/alexsalinas/318/</link>
+				<comments>/2018/poetry/alexsalinas/318/#respond</comments>
+				<pubDate>Sun, 23 Sep 2018 00:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=318</guid>
+				<description><![CDATA[A poem in a picture.]]></description>
+						<wfw:commentRss>/2018/poetry/alexsalinas/318/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">318</post-id>	</item>
+		<item>
+		<title>TV Religion</title>
+		<link>/2018/poetry/alexsalinas/310/</link>
+				<comments>/2018/poetry/alexsalinas/310/#respond</comments>
+				<pubDate>Mon, 25 Jun 2018 17:59:46 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=310</guid>
+				<description><![CDATA[Opiate of the viewers.]]></description>
+						<wfw:commentRss>/2018/poetry/alexsalinas/310/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">310</post-id>	</item>
+		<item>
+		<title>Shark Soup</title>
+		<link>/2018/poetry/alexsalinas/292/</link>
+				<comments>/2018/poetry/alexsalinas/292/#respond</comments>
+				<pubDate>Thu, 19 Apr 2018 20:35:40 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=292</guid>
+				<description><![CDATA[by Alex Z. Salinas I have an irrational fear in the shower when I close my eyes that a shark will burst through the tile wall and devour me whole Perhaps that’s because within the red waters in the chambers of my heart, there lurks a shark with an appetite unceasing till it has swallowed [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/alexsalinas/292/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">292</post-id>	</item>
+		<item>
+		<title>Firepool</title>
+		<link>/2018/poetry/alexsalinas/278/</link>
+				<comments>/2018/poetry/alexsalinas/278/#respond</comments>
+				<pubDate>Mon, 19 Mar 2018 20:29:22 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 2]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=278</guid>
+				<description><![CDATA[By Alex Z. Salinas I’ve studied Shakespeare and read Hemingway. I’ve marveled at Poe and Hawthorne, Pynchon and Roth, Murakami and King, too. Philip Levine taught me the simple truth, and Pablo Neruda showed me love and despair. Rabindranath Tagore breathed light into my body, and Juan Felipe Herrera turned me on my cabeza. Bukowski? [&#8230;]]]></description>
+						<wfw:commentRss>/2018/poetry/alexsalinas/278/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">278</post-id>	</item>
+		<item>
+		<title>Mountain Smoke</title>
+		<link>/2017/poetry/alexsalinas/204/</link>
+				<comments>/2017/poetry/alexsalinas/204/#respond</comments>
+				<pubDate>Sat, 25 Nov 2017 13:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=204</guid>
+				<description><![CDATA[by Alex Z. Salinas I. I remember the promise of the mountains, the alpine summer breeze clearing our pores, the entranced look you gave me on Highway 14 Remember the chip factory next to the hotel? That’s where you would’ve transferred You said all I needed to do was find a job II. I remember [&#8230;]]]></description>
+						<wfw:commentRss>/2017/poetry/alexsalinas/204/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">204</post-id>	</item>
+		<item>
+		<title>Salt</title>
+		<link>/2017/poetry/alexsalinas/111/</link>
+				<comments>/2017/poetry/alexsalinas/111/#respond</comments>
+				<pubDate>Tue, 10 Oct 2017 07:36:55 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Z. Salinas]]></dc:creator>
+				<category><![CDATA[Issue 1]]></category>
+		<category><![CDATA[Poetry]]></category>
+
+		<guid isPermaLink="false">/?p=111</guid>
+				<description><![CDATA[by Alex Z. Salinas &#160; I’d read once that Salinas, the surname that graces every form of my identity, was born in the salt mines of old Spain, where many men surely perished. My uncle Henry, though I’d call him tio, was a Salinas if there ever was one, the salt so strong in his [&#8230;]]]></description>
+						<wfw:commentRss>/2017/poetry/alexsalinas/111/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">111</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 70/81 objects using disk
+Page Caching using disk: enhanced 
+Database Caching using disk
+
+Served from: sa-review.com @ 2019-12-08 14:25:34 by W3 Total Cache
+-->
